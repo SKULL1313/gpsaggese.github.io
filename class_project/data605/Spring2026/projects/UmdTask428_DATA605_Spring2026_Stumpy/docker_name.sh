@@ -6,7 +6,7 @@
 # variables used by all docker_*.sh scripts in the project template.
 # """
 
-REPO_NAME=gpsaggese
+REPO_NAME=skull1313
 # The file should be all lower case.
-IMAGE_NAME=umd_project_template
+IMAGE_NAME=umd_data605_stumpy
 FULL_IMAGE_NAME=$REPO_NAME/$IMAGE_NAME
