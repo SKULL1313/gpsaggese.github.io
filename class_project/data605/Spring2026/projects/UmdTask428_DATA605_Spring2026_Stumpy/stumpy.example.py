@@ -8,7 +8,7 @@
 #       format_version: '1.3'
 #       jupytext_version: 1.19.1
 #   kernelspec:
-#     display_name: Python 3
+#     display_name: Python 3 (ipykernel)
 #     language: python
 #     name: python3
 # ---
@@ -625,7 +625,7 @@ plt.tight_layout()
 plt.show()
 
 
-# %% [markdown]
+# %% [markdown] jp-MarkdownHeadingCollapsed=true
 # ## 10. Discussion and limitations
 #
 # **The matrix profile underperforms Isolation Forest on the labeled-event

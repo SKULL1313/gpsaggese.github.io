@@ -31,3 +31,9 @@ to detect market-stress regimes.
 
 For Docker details (architecture, scripts, helpers), see
 [`class_project/project_template/README.md`](../../../../project_template/README.md).
+
+## A note from the author
+
+Thank you for the semester. This was a fun project to work on and a perfect
+addition to my portfolio. Grateful for this experience.
+
